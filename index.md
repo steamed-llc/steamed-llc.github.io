@@ -7,7 +7,7 @@ STEAM Education Supply, LLC. is a South Dakota Startup that provides educational
 ## Products
 
 - [BEARD] - Breadboard-based Electronics Assemblies for Radiation Detection
-- [beam-on] - Cloud-based Radiation Simulation Platform
+- [NuSim] - Cloud-based Radiation Simulation Platform
 
 [BEARD]: https://steamed.supply/beard
-[beam-on]: https://beam-on.dev
+[NuSim]: https://nusim.dev
