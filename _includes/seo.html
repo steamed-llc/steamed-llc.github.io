@@ -1,0 +1,12 @@
+{% if page.url == "/" %}
+  {% assign seo_title = "STEAM Education Supply, LLC" %}
+{% elsif page.title %}
+  {% assign seo_title = page.title | append: " | " | append: site.title %}
+{% else %}
+  {% assign seo_title = site.title %}
+{% endif %}
+
+<title>{{ seo_title | markdownify | strip_html | strip_newlines | escape_once }}</title>
+<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+<meta property="og:title" content="{{ seo_title | escape_once }}">
+<meta property="og:site_name" content="{{ site.title | escape_once }}">

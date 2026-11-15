@@ -1,0 +1,11 @@
+main:
+  - title: "Products"
+    url: "#products"
+  - title: "Customers"
+    url: "#customers"
+  - title: "News"
+    url: "/news/"
+  - title: "About"
+    url: "#about"
+  - title: "Contact"
+    url: "mailto:contact@steamed.llc"
