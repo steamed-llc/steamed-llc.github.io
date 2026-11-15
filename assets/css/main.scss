@@ -1,0 +1,29 @@
+---
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.brand-accent {
+  color: #38bdf8;
+}
+
+.page__footer {
+  footer {
+    text-align: right;
+  }
+
+  .page__footer-follow ul {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+  }
+
+  .page__footer-follow li {
+    padding-right: 0;
+    padding-left: 10px;
+  }
+}
