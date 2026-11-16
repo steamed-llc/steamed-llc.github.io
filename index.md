@@ -7,10 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpeg
   actions:
-    - label: "Explore Products"
-      url: "#products"
-    - label: "Contact Us"
-      url: "mailto:contact@steamed.llc"
+    - label: "About Us"
+      url: "#about"
+    - label: "Find Your Solution"
+      url: "#customers"
 
 feature_row_products:
   - image_path: /assets/images/2in.jpeg
@@ -62,8 +62,15 @@ feature_row_audience:
 
 Headquartered in **Vermillion, South Dakota**, _STEAM Education Supply, LLC_ is a deep-tech startup bridging frontier science, technology, and education. Born out of decades of experimental research and STEM pedagogy, we translate complex laboratory infrastructure, instrumentation and simulation workflows into accessible, intuitive platforms for both experienced professionals and next-generation innovators.
 
-* **Research-Grade Foundation:** Built upon technologies rooted in **National Science Foundation (NSF)** and **U.S. Department of Energy (DOE)** supported scientific research.
-* **Innovation & Commercialization Support:** Accelerated through the **NSF I-Corps** program and supported by the **University of South Dakota (USD)**, **South Dakota Biotech**, and **SD GOED / Giant Vision**.
+* **Research-Grade Foundation:** Built upon technologies rooted in National Science Foundation ([NSF]) and Department of Energy ([DOE]) supported scientific research.
+* **Innovation & Commercialization Support:** Accelerated through the NSF [I-Corps] program and supported by the University of South Dakota ([USD]), South Dakota [Biotech], and South Dakota Governor's Office of Economic Development ([GOED]).
 * **Pedagogical & Open-Standards Ethos:** Committed to transparent, modular design that empowers users from classroom beginners to enterprise engineering teams.
 
-[Contact Sales & Inquiries](mailto:contact@steamed.llc){: .btn .btn--primary .btn--large}
+[Contact Us](mailto:contact@steamed.llc){: .btn .btn--primary .btn--large}
+
+[NSF]: https://www.nsf.gov
+[DOE]: https://www.energy.gov/science/office-science
+[I-Corps]: https://www.nsf.gov/funding/initiatives/i-corps
+[USD]:https://www.usd.edu
+[Biotech]: https://www.sdbio.org
+[GOED]: https://sdgoed.com
