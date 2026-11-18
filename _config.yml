@@ -12,3 +12,20 @@ exclude:
   - compose.yaml
 atom_feed:
   hide: true
+footer:
+  links:
+    - label: "Home"
+      icon: "fas fa-fw fa-home"
+      url: "/"
+    - label: "Contact"
+      icon: "fas fa-fw fa-envelope"
+      url: "/contact/"
+    - label: "Privacy"
+      icon: "fas fa-fw fa-shield-alt"
+      url: "/privacy/"
+    - label: "Terms"
+      icon: "fas fa-fw fa-file-contract"
+      url: "/terms/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/steamedus"
