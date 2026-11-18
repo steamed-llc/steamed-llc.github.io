@@ -27,3 +27,9 @@ search: false
     padding-left: 10px;
   }
 }
+
+/* Reclaim empty left sidebar space on layout: single when no sidebar exists */
+.layout--single #main:not(:has(.sidebar)) .page {
+  float: left;
+  padding-right: 0;
+}
