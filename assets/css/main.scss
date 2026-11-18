@@ -29,7 +29,10 @@ search: false
 }
 
 /* Reclaim empty left sidebar space on layout: single when no sidebar exists */
-.layout--single #main:not(:has(.sidebar)) .page {
-  float: left;
-  padding-right: 0;
+/* Reclaim empty left sidebar space on layout: single when no sidebar exists */
+@media (min-width: 64em) {
+  .layout--single #main:not(:has(.sidebar)) .page {
+    float: left;
+    padding-right: 0;
+  }
 }
