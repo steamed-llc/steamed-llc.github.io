@@ -1,8 +1,6 @@
 ---
 title: "News & Milestones"
-permalink: /news/
 layout: single
-author_profile: false
 toc: true
 toc_label: "Timeline"
 ---
