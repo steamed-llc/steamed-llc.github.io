@@ -54,7 +54,7 @@ feature_row_audience:
 
 {% include feature_row id="feature_row_products" %}
 
-## Built for Every Stage of Discovery {#customers}
+## Built for Every Stage of Discovery {#solutions}
 
 {% include feature_row id="feature_row_audience" %}
 
