@@ -1,8 +1,6 @@
 ---
 title: "Terms of Use"
-permalink: /terms/
 layout: single
-author_profile: false
 toc: true
 toc_label: "Contents"
 ---
