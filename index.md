@@ -66,7 +66,7 @@ Headquartered in **Vermillion, South Dakota**, _STEAM Education Supply, LLC_ is 
 * **Innovation & Commercialization Support:** Accelerated through the NSF [I-Corps] program and supported by the University of South Dakota ([USD]), South Dakota [Biotech], and South Dakota Governor's Office of Economic Development ([GOED]).
 * **Pedagogical & Open-Standards Ethos:** Committed to transparent, modular design that empowers users from classroom beginners to enterprise engineering teams.
 
-[Contact Us](mailto:contact@steamed.llc){: .btn .btn--primary .btn--large}
+[Team](team){: .btn .btn--primary .btn--large}
 
 [NSF]: https://www.nsf.gov
 [DOE]: https://www.energy.gov/science/office-science
