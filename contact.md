@@ -1,13 +1,11 @@
 ---
 title: "Contact & Procurement"
-permalink: /contact/
 layout: single
-author_profile: false
 toc: true
 toc_label: "Contents"
 ---
 
-We work directly with university departments, K–16 school districts, national laboratories, and commercial teams to deploy **BEARD** detector hardware, **NuSim** cloud seats, and custom **Twin Space** 3D digital twins.
+We work directly with university departments, K–16 school districts, national laboratories, and commercial teams to deploy [BEARD] detector hardware, [NuSim] cloud seats, and custom [Twin Space][2in] 3D digital twins.
 
 ## 1. General Inquiries & Quotes
 For formal price quotes, institutional purchase orders, custom digital twin consultations, or grant subaward coordination, reach out directly:
@@ -16,7 +14,7 @@ For formal price quotes, institutional purchase orders, custom digital twin cons
 * **Headquarters:** Vermillion, South Dakota, USA
 
 When requesting a quote, please include:
-1. **Product or Service:** (e.g., BEARD hardware kits, NuSim classroom/lab licenses, or Twin Space custom 3D development)
+1. **Product or Service:** (e.g., [BEARD] hardware kits, [NuSim] classroom/lab licenses, or [Twin Space][2in] custom 3D development)
 2. **Quantity & Timeline:** Number of units/seats and your target delivery or semester start date
 3. **Institution & Shipping Address:** Organization name and delivery ZIP code for freight estimation
 
@@ -49,4 +47,8 @@ Use the information below when setting up **STEAM Education Supply, LLC** in you
 
 ## 4. Compliance & Tax Documentation
 * **Form W-9 & Certificate of Good Standing:** Available immediately upon request at [contact@steamed.llc](mailto:contact@steamed.llc) for vendor onboarding.
-* **Sole-Source Justification:** Because **BEARD**, **NuSim**, and **Twin Space** incorporate proprietary architectures developed by STEAM Education Supply, LLC, we can provide sole-source justification letters upon request for institutional procurement compliance.
+* **Sole-Source Justification:** Because [BEARD], [NuSim], and [Twin Space][2in] incorporate proprietary architectures developed by STEAM Education Supply, LLC, we can provide sole-source justification letters upon request for institutional procurement compliance.
+
+[BEARD]: https://steamed.supply/beard
+[NuSim]: https://nusim.dev
+[2in]: https://2in.space
