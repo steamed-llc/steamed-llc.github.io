@@ -10,7 +10,7 @@ header:
     - label: "About Us"
       url: "#about"
     - label: "Find Your Solution"
-      url: "#customers"
+      url: "#solutions"
 
 feature_row_products:
   - image_path: /assets/images/2in.jpeg
