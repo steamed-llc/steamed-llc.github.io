@@ -9,7 +9,7 @@ toc_label: "Timeline"
 
 ## Fall 2026, NSF Great Plains I-Corps
 
-Two undergraduate interns of STEAMEd™ from the Department of Computer Science ([CS]), the University of South Dakota ([USD]), conducted 21 customer discovery interviews during their NSF Great Plains I-Corps [Hub]'s training in fall 2026. Identified in these interviews were [NuSim]'s simulation engines in nuclear engineering, [OpenMC] and in biomedical physics, [GAMOS], [TOPAS]-[nBio], [GATE], alongside of its engines for nuclear and particle physics, [Geant4], [Fluka] and [MCNP].
+Two undergraduate students, [Chitrashen Sah](/team/#sah) and [Md Aftabul Islam](/team/#md), from the Department of Computer Science ([CS]), the University of South Dakota ([USD]), conducted 21 customer discovery interviews during their NSF Great Plains I-Corps [Hub]'s training in fall 2026. Identified in these interviews were [NuSim]'s simulation engines in nuclear engineering, [OpenMC] and in biomedical physics, [GAMOS], [TOPAS]-[nBio], [GATE], alongside of its engines for nuclear and particle physics, [Geant4], [Fluka] and [MCNP].
 
 ## Fall 2026, Tech2Launch Support
 
@@ -37,7 +37,7 @@ Supported by the [NSF] Great Plains I-Corps [Hub], Prof. [Liu] and his team cond
 
 ## Spring 2023, Giant Vision Competition
 
-Prof. [Jing Liu] and his team earned **4th Place** in the South Dakota Governor's [Giant Vision] Business Competition for the commercial concept behind [NuSim], recognizing its potential to lower technical barriers in radiation simulation and STEM education.
+Prof. Jing [Liu] and his team earned the **4th Place** in the South Dakota Governor's [Giant Vision] Business Competition for the commercial concept behind [NuSim], recognizing its potential to lower technical barriers in radiation simulation and STEM education.
 
 [Tech2Launch]: https://www.usd.edu/About/Departments-Offices-and-Resources/Office-of-Research-and-Sponsored-Programs/Tech2Launch
 [USD]:https://www.usd.edu
@@ -46,7 +46,7 @@ Prof. [Jing Liu] and his team earned **4th Place** in the South Dakota Governor'
 [STTR]: https://seed.nih.gov/small-business-funding/find-funding/sbir-sttr-funding-opportunities
 [BBCetc]: https://bbcetc.com
 [YouTube]: youtube.com/@physino
-[Liu]: https://www.usd.edu/research-and-faculty/faculty-and-staff/jing-liu
+[Liu]: /team/#liu
 [ALPhA]: https://advlab.org
 [Immersion]: https://advlab.org/Immersions2026
 [BEARD]: https://steamed.supply/beard
