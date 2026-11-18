@@ -2,7 +2,7 @@ main:
   - title: "Products"
     url: "#products"
   - title: "Solutions"
-    url: "#customers"
+    url: "#solutions"
   - title: "News"
     url: "/news/"
   - title: "About"
