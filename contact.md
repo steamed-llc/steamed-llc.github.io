@@ -1,5 +1,6 @@
 ---
 title: "Contact & Procurement"
+permalink: /contact/
 layout: single
 toc: true
 toc_label: "Contents"

@@ -1,5 +1,6 @@
 ---
 title: "News & Milestones"
+permalink: /news/
 layout: single
 toc: true
 toc_label: "Timeline"
