@@ -31,7 +31,7 @@ feature_row_products:
     alt: "NuSim Platform"
     title: "NuSim"
     excerpt: "Cloud-native radiation simulation platform that eliminates coding barriers for beginners, enables collaborative research for professionals, and demystifies radiation for informed policy making."
-    url: "https://nusim.dev"
+    url: "https://physino.xyz/g4web"
     btn_label: "Launch NuSim"
     btn_class: "btn--primary"
 
