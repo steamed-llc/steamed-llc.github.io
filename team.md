@@ -19,10 +19,15 @@ toc_label: "Contents"
 
 Principal Investigator on over $12M in federal research awards ([NSF], [DOE], [NASA]) and lead architect behind [BEARD], [NuSim], and [Twin Space][2in].
 
-
 ## University Contributors
 
-The software engineering and customer discovery milestones behind our platforms have been advanced in collaboration with student researchers at the [University of South Dakota][USD], supported through university-administered translational research and entrepreneurship programs (including [NSF] Great Plains [I-Corps][] [Hub][] and [USD][] [Tech2Launch][]):
+The software engineering, technology translation, and customer discovery milestones behind our platforms have been advanced in collaboration with student researchers at [USD], supported through university-administered translational research and entrepreneurship programs (including [NSF] Great Plains [I-Corps][] [Hub][] and [USD][] [Tech2Launch][]):
+
+### Kwaku Oteng — Entrepreneurial Lead
+
+<a href="https://www.linkedin.com/in/oteng-kwaku/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> &middot; <a href="https://github.com/Oteng" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i>GitHub</a>
+
+Graduate student in Computer Science ([CS]). Kwaku is an experienced senior software engineer with a demonstrated history of working in the computer software industry. He will serve as Entrepreneurial Lead for our upcoming [NSF] National [I-Corps] cohort (Spring 2027), leading customer discovery interviews, market validation, and commercialization translation for [NuSim].
 
 ### Md Aftabul Islam - Technical & Entrepreneurial Lead {#md}
 
@@ -38,6 +43,32 @@ Undergraduate student in Computer Science ([CS]), specializing in browser-based 
 
 **NOTE:**
 *Student contributors participate strictly through their academic roles and university-administered fellowship, grant, or entrepreneurship programs at the University of South Dakota, and are not employees of STEAM Education Supply, LLC.*
+
+## Coaches & Advisors
+
+**STEAM Education Supply, LLC** benefits from strategic mentorship across federal grant commercialization, medical/scientific regulatory pathways, and business development:
+
+### Robin Rowe - Industrial Mentor & Regulatory Advisor
+President and Founder of **R2 MedTech Regulatory, Clinical & Quality, LLC**, serving as Industrial Mentor for our [NSF] National [I-Corps] team and advising on regulatory strategy and commercialization pathways.
+
+### Tung Nguyen - Business Strategy & Commercialization Advisor
+Startup coach and business advisor supporting go-to-market execution, customer discovery, and early-stage enterprise growth.
+
+### Kara McCormick - Business & Innovation Advisor
+Advises on regional entrepreneurship, business planning, and commercialization readiness within South Dakota's innovation ecosystem.
+
+### Mike Vetter - Startup & Software Commercialization Advisor
+Co-Founder of [Wildfire Labs](https://wildfirelabs.io) and serial SaaS entrepreneur, advising on software product launch, go-to-market execution, and scalable startup growth.
+
+## Ecosystem & Institutional Support
+
+Our research translation, customer discovery, and federal proposal development have been supported through training, consulting, and infrastructure from:
+
+* [NSF] Great Plains I-Corps [Hub] - Customer discovery methodology, value-proposition validation, and national I-Corps preparation.
+* [USD] Office of Research and Sponsored Programs ([ORSP]) - Sponsored research administration, technology transfer coordination, and academic-industry collaboration support.
+* South Dakota [Biotech] - Translational commercialization training and regional life-science/deep-tech ecosystem support (including FAST Launch).
+* BBC Entrepreneurial Training and Consulting ([BBCetc]) - SBIR/STTR proposal strategy, commercialization planning, and federal grant readiness consulting.
+* [Wildfire Labs](https://wildfirelabs.io/) - Early-stage software startup mentorship, product launch coaching, and regional tech ecosystem support.
 
 [USD]:https://www.usd.edu
 [CS]: https://www.usd.edu/Academics/Colleges-and-Schools/college-of-arts-sciences/computer-science
@@ -57,3 +88,6 @@ Undergraduate student in Computer Science ([CS]), specializing in browser-based 
 [CSG]: https://geant4.web.cern.ch/documentation/pipelines/master/bfad_html/ForApplicationDevelopers/Detector/Geometry/geomSolids.html#constructed-solid-geometry-csg-solids
 [Three]: https://threejs.org
 [primitives]: https://threejs.org/manual/#primitives
+[Biotech]: https://sdbio.org
+[BBCetc]: https://bbcetc.com
+[ORSP]: https://www.usd.edu/research
